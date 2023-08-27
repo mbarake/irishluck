@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css"
+     height="980px" preserveAspectRatio="none" style="width:714px;height:980px;"
+     version="1.1" viewBox="0 0 714 980" width="714px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1ar0t8kf0s521" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g><!--MD5=[6d488d7d2c06bda952d171f4f2b5ad6e]
+cluster NeilDiamond-->
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="945"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="680" x="22" y="24"/>
+        <rect fill="#FFFFFF" height="912.7031" rx="12.5" ry="12.5"
+              style="stroke: #FFFFFF; stroke-width: 1.0;" width="674" x="25"
+              y="53.2969"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="22" x2="702"
+              y1="50.2969" y2="50.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="142" x="291"
+              y="40.9951">work/study in ireland
+        </text><!--MD5=[4cc54f682790ecc886935994d6febf0f]
+cluster pands-->
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="101"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="251" x="317" y="156"/>
+        <rect fill="#FFFFFF" height="68.7031" rx="12.5" ry="12.5"
+              style="stroke: #FFFFFF; stroke-width: 1.0;" width="245" x="320"
+              y="185.2969"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="317" x2="568"
+              y1="182.2969" y2="182.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="111" x="387"
+              y="172.9951">couple (non-eu)
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="131" x="552.5" y="447"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="552.5" x2="683.5"
+              y1="473.2969" y2="473.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="85" x="575.5"
+              y="464.9951">special case
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="111" x="557.5"
+              y="489.4355">i.e join eu spouse
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="116" x="110" y="59"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="110" x2="226"
+              y1="85.2969" y2="85.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="54" x="141"
+              y="76.9951">student
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="96" x="115"
+              y="101.4355">study in Ireland
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="259" x="38.5" y="191"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="38.5" x2="297.5"
+              y1="217.2969" y2="217.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="62" x="137"
+              y="208.9951">graduate
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="239" x="43.5"
+              y="233.4355">from a recognised Irish awarding body
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="184" x="38" y="320"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="38" x2="222"
+              y1="346.2969" y2="346.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="61" x="99.5"
+              y="337.9951">stamp1g
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="164" x="43"
+              y="362.4355">can work for any employer
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="338" x="151" y="574"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="151" x2="489"
+              y1="600.2969" y2="600.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="52" x="294"
+              y="591.9951">stamp4
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="318" x="156"
+              y="616.4355">can work for any employer and operate a business
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="268" x="249" y="447"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="249" x2="517"
+              y1="473.2969" y2="473.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="52" x="357"
+              y="464.9951">stamp1
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="248" x="254"
+              y="489.4355">can work only for your current employer
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="152" x="534" y="320"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="534" x2="686"
+              y1="346.2969" y2="346.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="132" x="544"
+              y="337.9951">hosting agreement
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="69" x="539"
+              y="362.4355">researcher
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="242" x="257" y="320"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="257" x2="499"
+              y1="346.2969" y2="346.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="80" x="338"
+              y="337.9951">critical skills
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="222" x="262"
+              y="362.4355">strategically important occupations
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="190.2969"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="189" x="92.5" y="763"/>
+        <rect fill="#FFFFFF" height="158" rx="12.5" ry="12.5"
+              style="stroke: #FFFFFF; stroke-width: 1.0;" width="183" x="95.5"
+              y="792.2969"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="92.5" x2="281.5"
+              y1="789.2969" y2="789.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="36" x="169"
+              y="780.9951">finish
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="89" x="131.5" y="888.2969"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="131.5" x2="220.5"
+              y1="914.5938" y2="914.5938"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="52" x="150"
+              y="906.292">stamp6
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="69" x="136.5"
+              y="930.7324">Irish citizen
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="145" x="103.5" y="802.2969"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="103.5" x2="248.5"
+              y1="828.5938" y2="828.5938"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="52" x="150"
+              y="820.292">stamp5
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="125" x="108.5"
+              y="844.7324">permanent resident
+        </text><!--MD5=[8a61449d873c8dabec7f37a350322526]
+link stamp5 to stamp6-->
+        <path d="M176,852.5932 C176,862.0833 176,873.0496 176,882.9738 "
+              fill="none" id="stamp5-&gt;stamp6"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="176,888.0552,180,879.0552,176,883.0552,172,879.0552,176,888.0552"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50.2656"
+              rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;"
+              width="112" x="440" y="191"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="440" x2="552"
+              y1="217.2969" y2="217.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="84" x="454"
+              y="208.9951">professional
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12"
+              lengthAdjust="spacingAndGlyphs" textLength="92" x="445"
+              y="233.4355">main applicant
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ar0t8kf0s521)" height="50" rx="12.5"
+              ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="72"
+              x="333" y="191"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="333" x2="405"
+              y1="217.2969" y2="217.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14"
+              lengthAdjust="spacingAndGlyphs" textLength="52" x="343"
+              y="208.9951">spouse
+        </text><!--MD5=[17270220a74bf1287b0a2136e3e55015]
+link professional to hosting-->
+        <path d="M517.711,241.187 C536.886,262.549 564.847,293.698 584.961,316.106 "
+              fill="none" id="professional-&gt;hosting"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="588.37,319.903,585.3336,310.5339,585.0296,316.1826,579.3809,315.8785,588.37,319.903"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="117" x="560"
+              y="286.0669">get offer based on
+        </text><!--MD5=[c99b6a64461d7397b78c736aa3272223]
+link professional to critical-->
+        <path d="M458.761,241.049 C446.242,250.163 432.742,261.209 422,273 C410.506,285.617 400.28,301.639 392.586,315.27 "
+              fill="none" id="professional-&gt;critical"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="390.076,319.792,397.9419,313.8652,392.5031,315.4206,390.9477,309.9818,390.076,319.792"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="117" x="423"
+              y="286.0669">get offer based on
+        </text><!--MD5=[4cbc15910ab8b106c4b4c3b03245850a]
+link special to stamp4-->
+        <path d="M560.543,497.101 C509.32,518.587 434.53,549.959 381.977,572.003 "
+              fill="none" id="special-&gt;stamp4"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="377.281,573.973,387.1277,574.1793,381.8916,572.0385,384.0324,566.8024,377.281,573.973"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="65" x="487"
+              y="540.0669">eligible for
+        </text><!--MD5=[6504f7e6f13c46a68e3e61c16a7e503d]
+link student to graduate-->
+        <path d="M168,109.147 C168,130.856 168,162.787 168,185.898 " fill="none"
+              id="student-&gt;graduate"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="168,190.982,172,181.982,168,185.982,164,181.982,168,190.982"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/><!--MD5=[fef8700bb93ab2d51337553959d3688b]
+link graduate to stamp1g-->
+        <path d="M160.599,241.245 C157.603,251.094 154.121,262.586 151,273 C146.863,286.805 142.322,302.137 138.524,315.009 "
+              fill="none" id="graduate-&gt;stamp1g"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="137.053,319.996,143.4333,312.4933,138.466,315.1998,135.7594,310.2325,137.053,319.996"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="65" x="152"
+              y="286.0669">eligible for
+        </text><!--MD5=[28fe0c18f79388d67dbaa0503066d895]
+link stamp1g to stamp4-->
+        <path d="M133.675,370.056 C139.479,401.724 153.206,457.946 182,497 C204.828,527.962 239.899,553.456 268.972,571.084 "
+              fill="none" id="stamp1g-&gt;stamp4"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="273.584,573.846,267.9182,565.79,269.2945,571.2769,263.8076,572.6532,273.584,573.846"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="47" x="183"
+              y="476.5669">5 years
+        </text><!--MD5=[092da2766610b3399a1c4eeaa8c2cc5f]
+link hosting to stamp1-->
+        <path d="M566.232,370.101 C527.606,391.371 471.387,422.329 431.424,444.335 "
+              fill="none" id="hosting-&gt;stamp1"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="426.634,446.973,436.4471,446.134,431.0135,444.5604,432.587,439.1268,426.634,446.973"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="43" x="511"
+              y="413.0669">will get
+        </text><!--MD5=[8b1e701361e1907d2ba58784ee580112]
+link critical to stamp1-->
+        <path d="M378.964,370.101 C379.784,390.593 380.963,420.076 381.835,441.884 "
+              fill="none" id="critical-&gt;stamp1"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="382.039,446.973,385.6759,437.8202,381.839,441.977,377.6823,438.1402,382.039,446.973"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="43" x="382"
+              y="413.0669">will get
+        </text><!--MD5=[90cad56707b0a606d7fdd984b65a7191]
+link stamp1 to stamp4-->
+        <path d="M370.853,497.101 C360.438,517.766 345.414,547.575 334.397,569.435 "
+              fill="none" id="stamp1-&gt;stamp4"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="332.11,573.973,339.7318,567.7354,334.3598,569.5077,332.5874,564.1357,332.11,573.973"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="47" x="357"
+              y="540.0669">2 years
+        </text><!--MD5=[bffbad7521fb0f46950258dcba3a03f0]
+link stamp1g to finish-->
+        <path d="M118.609,370.307 C108.062,395.072 94,434.866 94,471 C94,471 94,471 94,694.5 C94,716.56 100.5362,738.345 110.143,758.449 "
+              fill="none" id="stamp1g-&gt;finish"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="112.374,762.981,111.9884,753.1397,110.166,758.495,104.8107,756.6725,112.374,762.981"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/><!--MD5=[745ce07bb2c169a35b7dabed5a9f50c6]
+link stamp4 to finish-->
+        <path d="M307.488,624.178 C291.639,654.803 263.353,709.46 238.17,758.122 "
+              fill="none" id="stamp4-&gt;finish"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="235.743,762.812,243.4321,756.6575,238.0411,758.3714,236.3272,752.9805,235.743,762.812"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="210" x="277"
+              y="698.0669">after a number of years if eligible
+        </text><!--MD5=[d7f962bcc3112e07ed5665a48ba99be9]
+link spouse to stamp1g-->
+        <path d="M352.717,241.164 C346.13,249.57 337.96,258.508 329,265 C297.023,288.167 257.318,305.711 221.805,318.309 "
+              fill="none" id="spouse-&gt;stamp1g"
+              style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <polygon fill="#00BFFF"
+                 points="217.048,319.976,226.8643,320.7767,221.767,318.3235,224.2202,313.2263,217.048,319.976"
+                 style="stroke: #00BFFF; stroke-width: 1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13"
+              lengthAdjust="spacingAndGlyphs" textLength="65" x="316"
+              y="286.0669">eligible for
+        </text><!--MD5=[32877f1a7e3b0fe18daea493ad9c44de]
+@startuml
+skinparam handwritten false
+skinparam classFontColor red
+skinparam classFontSize 11
+skinparam classFontName Aapex
+skinparam backgroundColor transparent
+skinparam sequenceMessageAlign center
+skinparam shadowing<<no_shadow>> false
+skinparam shadowing<<with_shadow>> true
+
+skinparam usecase {
+	ArrowColor DeepSkyBlue
+	ActorBorderColor DeepSkyBlue
+	LifeLineBorderColor blue
+	LifeLineBackgroundColor #A9DCDF
+	
+	ParticipantBorderColor DeepSkyBlue
+	ParticipantBackgroundColor DodgerBlue
+	ParticipantFontName Impact
+	ParticipantFontSize 17
+	ParticipantFontColor #A9DCDF
+	
+	ActorBackgroundColor aqua
+	ActorFontColor DeepSkyBlue
+	ActorFontSize 17
+	ActorFontName Aapex
+}
+
+state "work/study in ireland" as NeilDiamond {
+  state "special case" as special : i.e join eu spouse
+ state "couple (non-eu)" as pands {
+    state professional: main applicant
+    state spouse
+  }
+  state finish {
+     state stamp6 : Irish citizen
+  state stamp5: permanent resident
+  }
+  state student : study in Ireland
+  state graduate : from a recognised Irish awarding body 
+  state stamp1g : can work for any employer
+  state stamp4 : can work for any employer and operate a business
+  state stamp1 : can work only for your current employer
+ 
+  state "hosting agreement" as hosting: researcher
+  state "critical skills" as critical: strategically important occupations
+  professional - -> hosting : get offer based on 
+  professional - -> critical : get offer based on
+  special - -> stamp4 : eligible for
+  student - -> graduate
+  graduate - -> stamp1g : eligible for
+  stamp1g - - -> stamp4: 5 years
+  hosting - -> stamp1 : will get
+  critical - -> stamp1 : will get
+  stamp1 - -> stamp4 : 2 years
+  stamp1g - -> finish 
+  stamp4 - - -> finish : after a number of years if eligible
+  stamp5 - -> stamp6
+  spouse - -> stamp1g : eligible for
+  
+}
+
+}
+@enduml
+
+PlantUML version 1.2020.01beta16(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.7.0_25-b15
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>
